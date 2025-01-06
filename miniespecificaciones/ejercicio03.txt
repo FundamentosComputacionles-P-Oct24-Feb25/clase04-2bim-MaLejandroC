@@ -1,4 +1,5 @@
 1.  Inicio
+2. // funcion tiene un retorno, procedemiento no lo tiene 
 2.  funcion principal()
 3.      variable, i[0-n]
 4.      variable2, i[0-n]
